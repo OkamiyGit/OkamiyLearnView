@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyView</string>
+    <string name="draw_his">直方图</string>
+    <string name="pie_chart">饼图</string>
+    <string name="circle_chart">drawArc()</string>
+    <string name="love_heart">爱心</string>
+    <string name="include_bitmap">图片</string>
+</resources>
