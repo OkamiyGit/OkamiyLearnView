@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         mList.add(new PageMode(R.layout.sample_circle, R.string.circle_chart, R.layout.item_views_arc));
         mList.add(new PageMode(R.layout.sample_heart, R.string.love_heart, R.layout.item_views_heart));
         mList.add(new PageMode(R.layout.sample_bitmap, R.string.include_bitmap, R.layout.item_views_bitmap));
+        mList.add(new PageMode(R.layout.sample_heart, R.string.include_bitmap, R.layout.item_views_shader));
     }
 
     @Override
